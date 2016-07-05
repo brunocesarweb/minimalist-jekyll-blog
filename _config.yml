@@ -9,8 +9,8 @@
 title: Minimal
 email: blog@minimal.com
 description: "Esse é um blog minimalista criado para aprender como funciona essa ferramenta linda que é o Jekyll."
-baseurl: "/minimal-blog"
-url: "http://williamjusten.com.br"
+baseurl: "/minimalist-jekyll-blog"
+url: "http://brunocesarweb.github.io/"
 twitter_username: minimal_twitter
 github_username:  minimal_github
 
