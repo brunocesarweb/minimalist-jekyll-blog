@@ -4,7 +4,9 @@
   </h1>
   <nav class="masthead-nav">
     {% for page in site.pages %}
-        <a href="{{ page.url | prepend: site.baseurl }}"> {{ page.title }} </a>
+        {% if page.visibleLink %}
+            <a href="{{ page.url | prepend: site.baseurl }}"> {{ page.title }} </a>
+        {% endif %}
     {% endfor %}
   </nav>
 
