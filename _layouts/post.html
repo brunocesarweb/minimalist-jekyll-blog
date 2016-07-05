@@ -5,11 +5,19 @@ layout: default
 {% include minutes-to-read.html %}
 
 <article class="content post">
-  <h1 class="post-title"></h1>
+  <h1 class="post-title">{{ page.title }}</h1>
   <div class="post-date">
     <time> {{ page.date | date_to_string }} </time>
     <span class="reading-time"> - {{ minutesText }}</span>
-  </div>
+  </div> 
+    <div class="filters">
+        {% if page.category != "" %}
+            <div class="byCategory"><span>Category: </span> {{ page.category }} </div>
+        {% endif %}
+        {% if page.tags != "" %}
+            <div class="byTags"><span>Tags: </span> {{ page.tags }} </div>
+        {% endif %}
+    </div>
 
   {{ content }}
 
