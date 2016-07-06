@@ -6,7 +6,7 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: Minimal
+title: Minimalist
 email: blog@minimal.com
 description: "Esse é um blog minimalista criado para aprender como funciona essa ferramenta linda que é o Jekyll."
 baseurl: "/minimalist-jekyll-blog"
@@ -14,10 +14,12 @@ url: "http://brunocesarweb.github.io/"
 
 # Build settings
 markdown: kramdown
-#permalink: /:categories/:year/:mounth/:day/:/title
+#permalink: /:categories/:year/:mounth/:day/:title
 permalink: /:title
 
 # a gems for jekyll
 gems: [jekyll-paginate]
-paginate_path: "/minimalist-jekyll-blog/page:num"
-paginate: 3
+paginate_path: "/blog/page:num"
+paginate: 5
+
+#http://stackoverflow.com/questions/21248607/jekyll-pagination-on-every-page

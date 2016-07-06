@@ -110,6 +110,12 @@
   }
 }
 
+h1.post-title{
+    border-bottom: 1px solid #aaa;
+    margin-bottom: 20px;
+    padding-bottom: 10px;
+}
+
 .post-date {
     margin-bottom: 0em;
 }
@@ -268,4 +274,16 @@ button:active{
         color: #aaa;
         margin: 5px;
     }
+}
+
+img{
+    margin: 0px auto;
+}
+
+article.content{
+    
+    .content{
+        margin: 20px auto;
+    }
+
 }
