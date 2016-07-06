@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Welcome to Jekyll!"
-date:   2016-07-03 16:04:05 +0000
+date:   2016-07-03 16:04:05 +0300
 category: jekyll
 tags: jekyll&nbsp; ruby
 ---

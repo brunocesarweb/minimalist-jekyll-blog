@@ -11,10 +11,13 @@ email: blog@minimal.com
 description: "Esse é um blog minimalista criado para aprender como funciona essa ferramenta linda que é o Jekyll."
 baseurl: "/minimalist-jekyll-blog"
 url: "http://brunocesarweb.github.io/"
-twitter_username: minimal_twitter
-github_username:  minimal_github
 
 # Build settings
 markdown: kramdown
 #permalink: /:categories/:year/:mounth/:day/:/title
 permalink: /:title
+
+# a gems for jekyll
+gems: [jekyll-paginate]
+paginate_path: "/minimalist-jekyll-blog/page:num"
+paginate: 3

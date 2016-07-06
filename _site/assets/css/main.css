@@ -1,7 +1,8 @@
 * {
   -webkit-box-sizing: border-box;
   -moz-box-sizing: border-box;
-  box-sizing: border-box; }
+  box-sizing: border-box;
+  transition: all 0.3 ease; }
 
 html,
 body {
@@ -263,11 +264,18 @@ tbody tr:nth-child(odd) th {
       text-decoration: none; }
 .list-post-date {
   font-size: .75rem;
-  text-transform: uppercase;
-  margin-bottom: 0px; }
+  text-transform: uppercase; }
+
+.post-date {
+  margin-bottom: 0em; }
 
 .filters {
   margin-bottom: 1rem; }
+  .filters > div {
+    display: inline-block;
+    margin: 5px 10px 5px 0px; }
+    .filters > div span {
+      color: #ddd; }
 
 .projects-list a {
   color: #333; }
@@ -366,6 +374,28 @@ button:active {
     position:relative;
     top:1px;
 }*/
+.pagination {
+  border: 1px solid #aaa;
+  border-left: 0px;
+  border-right: 0px;
+  margin-top: 20px;
+  padding: 10px 10px;
+  text-align: center; }
+  .pagination > a {
+    color: #333;
+    margin: 5px; }
+    .pagination > a span {
+      border: 1px solid #aaa;
+      background: #ddd;
+      padding: 5px;
+      border-radius: 10px; }
+  .pagination > a:hover {
+    text-decoration: none; }
+  .pagination > em {
+    text-decoration: underline;
+    color: #aaa;
+    margin: 5px; }
+
 .highlight .hll {
   background-color: #ffffcc; }
 

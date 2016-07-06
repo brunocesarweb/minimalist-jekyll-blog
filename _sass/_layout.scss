@@ -107,12 +107,23 @@
   &-post-date {
     font-size: .75rem;
     text-transform: uppercase;
-    margin-bottom: 0px;
   }
+}
+
+.post-date {
+    margin-bottom: 0em;
 }
 
 .filters{
     margin-bottom: 1rem;
+    > div{
+        display: inline-block;
+        margin: 5px 10px 5px 0px;
+        
+        span{
+            color: #ddd;
+        }
+    }
 }
 
 .projects-list {
@@ -226,3 +237,35 @@ button:active{
     position:relative;
     top:1px;
 }*/
+
+.pagination{
+    
+    border: 1px solid #aaa;
+    border-left: 0px;
+    border-right: 0px;
+    margin-top: 20px;
+    padding: 10px 10px;
+    text-align: center;
+
+    & > a{
+        color: #333;
+        margin: 5px;
+        
+        span{
+            border: 1px solid #aaa;
+            background: #ddd;
+            padding: 5px;
+            border-radius: 10px;
+        }
+    }
+    
+    & > a:hover{
+        text-decoration: none;
+    }
+    
+    & > em{
+        text-decoration: underline;
+        color: #aaa;
+        margin: 5px;
+    }
+}

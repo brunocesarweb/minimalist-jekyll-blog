@@ -5,62 +5,94 @@
     <description>Esse é um blog minimalista criado para aprender como funciona essa ferramenta linda que é o Jekyll.</description>
     <link>http://brunocesarweb.github.io//minimalist-jekyll-blog/</link>
     <atom:link href="http://brunocesarweb.github.io//minimalist-jekyll-blog/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 05 Jul 2016 17:29:38 -0300</pubDate>
-    <lastBuildDate>Tue, 05 Jul 2016 17:29:38 -0300</lastBuildDate>
+    <pubDate>Wed, 06 Jul 2016 13:45:22 -0300</pubDate>
+    <lastBuildDate>Wed, 06 Jul 2016 13:45:22 -0300</lastBuildDate>
     <generator>Jekyll v3.1.6</generator>
     
       <item>
-        <title>Hello world!</title>
-        <description>&lt;h1 id=&quot;heading-1&quot;&gt;Heading 1&lt;/h1&gt;
-
-&lt;h2 id=&quot;heading-2&quot;&gt;Heading 2&lt;/h2&gt;
-
-&lt;h3 id=&quot;heading-3&quot;&gt;Heading 3&lt;/h3&gt;
-
-&lt;h4 id=&quot;heading-4&quot;&gt;Heading 4&lt;/h4&gt;
-
-&lt;h5 id=&quot;heading-5&quot;&gt;Heading 5&lt;/h5&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;palavra&lt;/li&gt;
-  &lt;li&gt;palavra&lt;/li&gt;
-  &lt;li&gt;palavra&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;palavra&lt;/li&gt;
-  &lt;li&gt;palavra&lt;/li&gt;
-  &lt;li&gt;palavra&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://i.ytimg.com/vi/mW3S0u8bj58/maxresdefault.jpg&quot; alt=&quot;Gatinho com carinha de coitado&quot; /&gt;&lt;/p&gt;
+        <title>One more post</title>
+        <description>&lt;h2 id=&quot;this-is-a-one-more-post&quot;&gt;This is a one more post&lt;/h2&gt;
 
 &lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Molestias debitis minus, est fuga dolorum totam animi quas eligendi impedit. Commodi accusantium odio non quibusdam hic quod quas magnam, enim consequatur!&lt;/p&gt;
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-php&quot; data-lang=&quot;php&quot;&gt;    &lt;span class=&quot;cp&quot;&gt;&amp;lt;?php&lt;/span&gt;
+        &lt;span class=&quot;k&quot;&gt;echo&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;Hello world&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+    &lt;span class=&quot;cp&quot;&gt;?&amp;gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-html&quot; data-lang=&quot;html&quot;&gt;    &lt;span class=&quot;nt&quot;&gt;&amp;lt;article&amp;gt;&lt;/span&gt;
+        &lt;span class=&quot;nt&quot;&gt;&amp;lt;div&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;class=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;hello&quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;id=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;world&quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt; Hello World&lt;span class=&quot;nt&quot;&gt;&amp;lt;/div&amp;gt;&lt;/span&gt;
+    &lt;span class=&quot;nt&quot;&gt;&amp;lt;/article&amp;gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
 
 &lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Veritatis mollitia aliquid illo libero cumque nisi alias, cupiditate facilis repellat aperiam omnis provident, possimus 
 eligendi reprehenderit, expedita ab dolor modi amet!&lt;/p&gt;
 
-&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Fuga nam consectetur, temporibus nobis eos explicabo et ipsam exercitationem deserunt cumque consequuntur iste illum, doloribus accusantium vitae ducimus? Pariatur, ducimus, illo!&lt;/p&gt;
-
-&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Molestias debitis minus, est fuga dolorum totam animi quas eligendi impedit. Commodi accusantium odio non quibusdam hic quod quas magnam, enim consequatur!&lt;/p&gt;
-
-&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Veritatis mollitia aliquid illo libero cumque nisi alias, cupiditate facilis repellat aperiam omnis provident, possimus 
-eligendi reprehenderit, expedita ab dolor modi amet!&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://new3.fjcdn.com/pictures/Just+one+more+post+i+have+been+on+funnyjunk+since_9ac08e_4849490.jpg&quot; alt=&quot;One more post!&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Fuga nam consectetur, temporibus nobis eos explicabo et ipsam exercitationem deserunt cumque consequuntur iste illum, doloribus accusantium vitae ducimus? Pariatur, ducimus, illo!&lt;/p&gt;
 
 &lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Molestias debitis minus, est fuga dolorum totam animi quas eligendi impedit. Commodi accusantium odio non quibusdam hic quod quas magnam, enim consequatur!&lt;/p&gt;
 </description>
-        <pubDate>Mon, 04 Jul 2016 09:58:00 -0300</pubDate>
-        <link>http://brunocesarweb.github.io//minimalist-jekyll-blog/hello-world</link>
-        <guid isPermaLink="true">http://brunocesarweb.github.io//minimalist-jekyll-blog/hello-world</guid>
+        <pubDate>Wed, 06 Jul 2016 05:11:50 -0300</pubDate>
+        <link>http://brunocesarweb.github.io//minimalist-jekyll-blog/one-more-post</link>
+        <guid isPermaLink="true">http://brunocesarweb.github.io//minimalist-jekyll-blog/one-more-post</guid>
         
-        <category>hello&amp;nbsp;</category>
-        
-        <category>start</category>
+        <category>general</category>
         
         
-        <category>start&amp;nbsp; blog</category>
+        <category>general</category>
+        
+      </item>
+    
+      <item>
+        <title>The incredible gulp</title>
+        <description>&lt;h2 id=&quot;the-incredible-gulp&quot;&gt;The incredible gulp&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://farm4.staticflickr.com/3034/2574068598_e3095654b7_b.jpg&quot; alt=&quot;The incredible gulp!&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Molestias debitis minus, est fuga dolorum totam animi quas eligendi impedit. Commodi accusantium odio non quibusdam hic quod quas magnam, enim consequatur!&lt;/p&gt;
+
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Veritatis mollitia aliquid illo libero cumque nisi alias, cupiditate facilis repellat aperiam omnis provident, possimus 
+eligendi reprehenderit, expedita ab dolor modi amet!&lt;/p&gt;
+
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Fuga nam consectetur, temporibus nobis eos explicabo et ipsam exercitationem deserunt cumque consequuntur iste illum, doloribus accusantium vitae ducimus? Pariatur, ducimus, illo!&lt;/p&gt;
+</description>
+        <pubDate>Tue, 05 Jul 2016 17:11:50 -0300</pubDate>
+        <link>http://brunocesarweb.github.io//minimalist-jekyll-blog/the-incredible-gulp</link>
+        <guid isPermaLink="true">http://brunocesarweb.github.io//minimalist-jekyll-blog/the-incredible-gulp</guid>
+        
+        <category>gulp&amp;nbsp;javascript&amp;nbsp;front-end</category>
+        
+        
+        <category>develop</category>
+        
+      </item>
+    
+      <item>
+        <title>Independence day</title>
+        <description>&lt;h2 id=&quot;the-independence-day&quot;&gt;The independence day&lt;/h2&gt;
+
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Molestias debitis minus, est fuga dolorum totam animi quas eligendi impedit. Commodi accusantium odio non quibusdam hic quod quas magnam, enim consequatur!&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://ih0.redbubble.net/image.8048482.5528/sticker,375x360.png&quot; alt=&quot;The independence day of US!&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Veritatis mollitia aliquid illo libero cumque nisi alias, cupiditate facilis repellat aperiam omnis provident, possimus 
+eligendi reprehenderit, expedita ab dolor modi amet!&lt;/p&gt;
+
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Fuga nam consectetur, temporibus nobis eos explicabo et ipsam exercitationem deserunt cumque consequuntur iste illum, doloribus accusantium vitae ducimus? Pariatur, ducimus, illo!&lt;/p&gt;
+
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Molestias debitis minus, est fuga dolorum totam animi quas eligendi impedit. Commodi accusantium odio non quibusdam hic quod quas magnam, enim consequatur!&lt;/p&gt;
+
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Veritatis mollitia aliquid illo libero cumque nisi alias, cupiditate facilis repellat aperiam omnis provident, possimus 
+eligendi reprehenderit, expedita ab dolor modi amet!&lt;/p&gt;
+</description>
+        <pubDate>Mon, 04 Jul 2016 11:20:10 -0300</pubDate>
+        <link>http://brunocesarweb.github.io//minimalist-jekyll-blog/independence-day</link>
+        <guid isPermaLink="true">http://brunocesarweb.github.io//minimalist-jekyll-blog/independence-day</guid>
+        
+        <category>general</category>
+        
+        
+        <category>general</category>
         
       </item>
     
@@ -81,7 +113,7 @@ eligendi reprehenderit, expedita ab dolor modi amet!&lt;/p&gt;
 &lt;p&gt;Check out the &lt;a href=&quot;http://jekyllrb.com/docs/home&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://talk.jekyllrb.com/&quot;&gt;Jekyll Talk&lt;/a&gt;.&lt;/p&gt;
 
 </description>
-        <pubDate>Sun, 03 Jul 2016 13:04:05 -0300</pubDate>
+        <pubDate>Sun, 03 Jul 2016 10:04:05 -0300</pubDate>
         <link>http://brunocesarweb.github.io//minimalist-jekyll-blog/welcome-to-jekyll</link>
         <guid isPermaLink="true">http://brunocesarweb.github.io//minimalist-jekyll-blog/welcome-to-jekyll</guid>
         
@@ -91,6 +123,158 @@ eligendi reprehenderit, expedita ab dolor modi amet!&lt;/p&gt;
         
         
         <category>jekyll</category>
+        
+      </item>
+    
+      <item>
+        <title>This is a 2 of july</title>
+        <description>&lt;h2 id=&quot;this-is-a-2-of-july&quot;&gt;This is a 2 of july&lt;/h2&gt;
+
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Molestias debitis minus, est fuga dolorum totam animi quas eligendi impedit. Commodi accusantium odio non quibusdam hic quod quas magnam, enim consequatur!&lt;/p&gt;
+
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Veritatis mollitia aliquid illo libero cumque nisi alias, cupiditate facilis repellat aperiam omnis provident, possimus 
+eligendi reprehenderit, expedita ab dolor modi amet!&lt;/p&gt;
+
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Fuga nam consectetur, temporibus nobis eos explicabo et ipsam exercitationem deserunt cumque consequuntur iste illum, doloribus accusantium vitae ducimus? Pariatur, ducimus, illo!&lt;/p&gt;
+</description>
+        <pubDate>Sat, 02 Jul 2016 05:11:50 -0300</pubDate>
+        <link>http://brunocesarweb.github.io//minimalist-jekyll-blog/this-is-a-2-of-july</link>
+        <guid isPermaLink="true">http://brunocesarweb.github.io//minimalist-jekyll-blog/this-is-a-2-of-july</guid>
+        
+        <category>general</category>
+        
+        
+        <category>general</category>
+        
+      </item>
+    
+      <item>
+        <title>The infinite day</title>
+        <description>&lt;h2 id=&quot;the-infinite-day&quot;&gt;The infinite day&lt;/h2&gt;
+
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Molestias debitis minus, est fuga dolorum totam animi quas eligendi impedit. Commodi accusantium odio non quibusdam hic quod quas magnam, enim consequatur!&lt;/p&gt;
+
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Veritatis mollitia aliquid illo libero cumque nisi alias, cupiditate facilis repellat aperiam omnis provident, possimus 
+eligendi reprehenderit, expedita ab dolor modi amet!&lt;/p&gt;
+
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Molestias debitis minus, est fuga dolorum totam animi quas eligendi impedit. Commodi accusantium odio non quibusdam hic quod quas magnam, enim consequatur!&lt;/p&gt;
+
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Molestias debitis minus, est fuga dolorum totam animi quas eligendi impedit. Commodi accusantium odio non quibusdam hic quod quas magnam, enim consequatur!&lt;/p&gt;
+
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Molestias debitis minus, est fuga dolorum totam animi quas eligendi impedit. Commodi accusantium odio non quibusdam hic quod quas magnam, enim consequatur!&lt;/p&gt;
+</description>
+        <pubDate>Thu, 30 Jun 2016 05:11:50 -0300</pubDate>
+        <link>http://brunocesarweb.github.io//minimalist-jekyll-blog/the-infinit-day</link>
+        <guid isPermaLink="true">http://brunocesarweb.github.io//minimalist-jekyll-blog/the-infinit-day</guid>
+        
+        <category>general</category>
+        
+        
+        <category>general</category>
+        
+      </item>
+    
+      <item>
+        <title>A post</title>
+        <description>&lt;h2 id=&quot;a-post&quot;&gt;A post&lt;/h2&gt;
+
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Molestias debitis minus, est fuga dolorum totam animi quas eligendi impedit. Commodi accusantium odio non quibusdam hic quod quas magnam, enim consequatur!&lt;/p&gt;
+
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Veritatis mollitia aliquid illo libero cumque nisi alias, cupiditate facilis repellat aperiam omnis provident, possimus 
+eligendi reprehenderit, expedita ab dolor modi amet!&lt;/p&gt;
+
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Molestias debitis minus, est fuga dolorum totam animi quas eligendi impedit. Commodi accusantium odio non quibusdam hic quod quas magnam, enim consequatur!&lt;/p&gt;
+
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Molestias debitis minus, est fuga dolorum totam animi quas eligendi impedit. Commodi accusantium odio non quibusdam hic quod quas magnam, enim consequatur!&lt;/p&gt;
+
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Molestias debitis minus, est fuga dolorum totam animi quas eligendi impedit. Commodi accusantium odio non quibusdam hic quod quas magnam, enim consequatur!&lt;/p&gt;
+</description>
+        <pubDate>Wed, 29 Jun 2016 05:11:50 -0300</pubDate>
+        <link>http://brunocesarweb.github.io//minimalist-jekyll-blog/a-post</link>
+        <guid isPermaLink="true">http://brunocesarweb.github.io//minimalist-jekyll-blog/a-post</guid>
+        
+        <category>general</category>
+        
+        
+        <category>general</category>
+        
+      </item>
+    
+      <item>
+        <title>Copy and paste</title>
+        <description>&lt;h2 id=&quot;copy-and-paste&quot;&gt;Copy and paste&lt;/h2&gt;
+
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Molestias debitis minus, est fuga dolorum totam animi quas eligendi impedit. Commodi accusantium odio non quibusdam hic quod quas magnam, enim consequatur!&lt;/p&gt;
+
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Veritatis mollitia aliquid illo libero cumque nisi alias, cupiditate facilis repellat aperiam omnis provident, possimus 
+eligendi reprehenderit, expedita ab dolor modi amet!&lt;/p&gt;
+
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Molestias debitis minus, est fuga dolorum totam animi quas eligendi impedit. Commodi accusantium odio non quibusdam hic quod quas magnam, enim consequatur!&lt;/p&gt;
+
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Molestias debitis minus, est fuga dolorum totam animi quas eligendi impedit. Commodi accusantium odio non quibusdam hic quod quas magnam, enim consequatur!&lt;/p&gt;
+
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Molestias debitis minus, est fuga dolorum totam animi quas eligendi impedit. Commodi accusantium odio non quibusdam hic quod quas magnam, enim consequatur!&lt;/p&gt;
+</description>
+        <pubDate>Sat, 04 Jun 2016 05:11:50 -0300</pubDate>
+        <link>http://brunocesarweb.github.io//minimalist-jekyll-blog/copy-and-paste</link>
+        <guid isPermaLink="true">http://brunocesarweb.github.io//minimalist-jekyll-blog/copy-and-paste</guid>
+        
+        <category>info</category>
+        
+        
+        <category>tech</category>
+        
+      </item>
+    
+      <item>
+        <title>Going</title>
+        <description>&lt;h2 id=&quot;going&quot;&gt;Going&lt;/h2&gt;
+
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Molestias debitis minus, est fuga dolorum totam animi quas eligendi impedit. Commodi accusantium odio non quibusdam hic quod quas magnam, enim consequatur!&lt;/p&gt;
+
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Veritatis mollitia aliquid illo libero cumque nisi alias, cupiditate facilis repellat aperiam omnis provident, possimus 
+eligendi reprehenderit, expedita ab dolor modi amet!&lt;/p&gt;
+
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Molestias debitis minus, est fuga dolorum totam animi quas eligendi impedit. Commodi accusantium odio non quibusdam hic quod quas magnam, enim consequatur!&lt;/p&gt;
+
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Molestias debitis minus, est fuga dolorum totam animi quas eligendi impedit. Commodi accusantium odio non quibusdam hic quod quas magnam, enim consequatur!&lt;/p&gt;
+
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Molestias debitis minus, est fuga dolorum totam animi quas eligendi impedit. Commodi accusantium odio non quibusdam hic quod quas magnam, enim consequatur!&lt;/p&gt;
+</description>
+        <pubDate>Fri, 03 Jun 2016 05:11:50 -0300</pubDate>
+        <link>http://brunocesarweb.github.io//minimalist-jekyll-blog/going</link>
+        <guid isPermaLink="true">http://brunocesarweb.github.io//minimalist-jekyll-blog/going</guid>
+        
+        <category>travel</category>
+        
+        
+        <category>general</category>
+        
+      </item>
+    
+      <item>
+        <title>Testing a pagination</title>
+        <description>&lt;h2 id=&quot;testing-a-pagination&quot;&gt;Testing a pagination&lt;/h2&gt;
+
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Molestias debitis minus, est fuga dolorum totam animi quas eligendi impedit. Commodi accusantium odio non quibusdam hic quod quas magnam, enim consequatur!&lt;/p&gt;
+
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Veritatis mollitia aliquid illo libero cumque nisi alias, cupiditate facilis repellat aperiam omnis provident, possimus 
+eligendi reprehenderit, expedita ab dolor modi amet!&lt;/p&gt;
+
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Molestias debitis minus, est fuga dolorum totam animi quas eligendi impedit. Commodi accusantium odio non quibusdam hic quod quas magnam, enim consequatur!&lt;/p&gt;
+
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Molestias debitis minus, est fuga dolorum totam animi quas eligendi impedit. Commodi accusantium odio non quibusdam hic quod quas magnam, enim consequatur!&lt;/p&gt;
+
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Molestias debitis minus, est fuga dolorum totam animi quas eligendi impedit. Commodi accusantium odio non quibusdam hic quod quas magnam, enim consequatur!&lt;/p&gt;
+</description>
+        <pubDate>Thu, 02 Jun 2016 05:11:50 -0300</pubDate>
+        <link>http://brunocesarweb.github.io//minimalist-jekyll-blog/testing-a-pagination</link>
+        <guid isPermaLink="true">http://brunocesarweb.github.io//minimalist-jekyll-blog/testing-a-pagination</guid>
+        
+        <category>general&amp;nbsp;develop</category>
+        
+        
+        <category>tech</category>
         
       </item>
     
