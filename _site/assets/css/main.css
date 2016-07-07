@@ -25,7 +25,8 @@ body {
   -ms-text-size-adjust: 100%; }
 
 a {
-  color: #268bd2;
+  color: #333;
+  /*color: #268bd2;*/
   text-decoration: none; }
   a:hover, a:focus {
     text-decoration: underline; }
@@ -199,6 +200,9 @@ tbody tr:nth-child(odd) td,
 tbody tr:nth-child(odd) th {
   background-color: #f9f9f9; }
 
+/******************************************/
+/********NOVO CSS****/
+/******************************************/
 .invisible {
   display: none; }
 
@@ -266,6 +270,9 @@ tbody tr:nth-child(odd) th {
   font-size: .75rem;
   text-transform: uppercase; }
 
+/******************************************/
+/********NOVO CSS****/
+/******************************************/
 h1.post-title {
   border-bottom: 1px solid #aaa;
   margin-bottom: 20px;
@@ -275,12 +282,30 @@ h1.post-title {
   margin-bottom: 0em; }
 
 .filters {
-  margin-bottom: 1rem; }
+  margin-bottom: 0em; }
   .filters > div {
     display: inline-block;
     margin: 5px 10px 5px 0px; }
     .filters > div span {
-      color: #ddd; }
+      color: #aaa; }
+  .filters .byTags > a {
+    border: 2px solid #ddd;
+    padding: 0px 5px;
+    border-radius: 10px;
+    font-weight: bold;
+    display: inline-block;
+    margin-bottom: 5px; }
+  .filters .byTags > a:hover {
+    text-decoration: none;
+    cursor: pointer; }
+
+.list-item {
+  border: 1px solid #333;
+  border-radius: 10px;
+  padding: 10px;
+  box-shadow: 5px 5px 20px 0px #333;
+  -webkit-box-shadow: 5px 5px 20px 0px #333;
+  -moz-box-shadow: 5px 5px 20px 0px #333; }
 
 .projects-list a {
   color: #333; }
@@ -406,6 +431,16 @@ img {
 
 article.content .content {
   margin: 20px auto; }
+
+footer {
+  border-top: 1px solid #aaa;
+  text-align: center;
+  padding: 10px; }
+  footer .rss-subscribe {
+    margin: 10px auto; }
+
+.underLink {
+  text-decoration: underline; }
 
 .highlight .hll {
   background-color: #ffffcc; }

@@ -1,0 +1,15 @@
+{% if post.tags != "" %}
+
+    <div class="byTags">
+
+        <span>Tags</span> - 
+
+        {% for tag in post.tags %}    
+
+            <a href="/tag/{{tag}}">{{ tag }}</a>
+
+        {% endfor %}
+
+    </div>
+    
+{% endif %}

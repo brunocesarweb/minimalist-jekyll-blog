@@ -110,6 +110,9 @@
   }
 }
 
+/******************************************/
+/********NOVO CSS****/
+/******************************************/
 h1.post-title{
     border-bottom: 1px solid #aaa;
     margin-bottom: 20px;
@@ -121,16 +124,46 @@ h1.post-title{
 }
 
 .filters{
-    margin-bottom: 1rem;
+    margin-bottom: 0em;
     > div{
         display: inline-block;
         margin: 5px 10px 5px 0px;
         
         span{
-            color: #ddd;
+            color: #aaa;
         }
     }
-}
+    
+    .byTags{
+        
+        & > a{
+            border: 2px solid #ddd;
+            padding: 0px 5px;
+            border-radius: 10px;
+            font-weight: bold;
+            display: inline-block;
+            margin-bottom: 5px;
+        }
+        
+        & > a:hover{
+            text-decoration: none;
+            cursor: pointer;
+        }
+  
+    }//.byTags
+    
+}//.filters
+
+.list-item{
+
+    border: 1px solid #333;
+    border-radius: 10px;
+    padding: 10px;
+    box-shadow: 5px 5px 20px 0px #333;
+        -webkit-box-shadow: 5px 5px 20px 0px #333;
+        -moz-box-shadow: 5px 5px 20px 0px #333;
+    
+}//.list-item
 
 .projects-list {
   a {
@@ -286,4 +319,18 @@ article.content{
         margin: 20px auto;
     }
 
+}
+
+footer{
+    border-top: 1px solid #aaa;
+    text-align: center;
+    padding: 10px;
+    
+    .rss-subscribe{
+        margin: 10px auto;
+    }
+}
+
+.underLink{
+    text-decoration: underline;
 }

@@ -5,8 +5,8 @@
     <description>Esse é um blog minimalista criado para aprender como funciona essa ferramenta linda que é o Jekyll.</description>
     <link>http://brunocesarweb.github.io//minimalist-jekyll-blog/</link>
     <atom:link href="http://brunocesarweb.github.io//minimalist-jekyll-blog/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 06 Jul 2016 17:54:45 -0300</pubDate>
-    <lastBuildDate>Wed, 06 Jul 2016 17:54:45 -0300</lastBuildDate>
+    <pubDate>Thu, 07 Jul 2016 17:04:14 -0300</pubDate>
+    <lastBuildDate>Thu, 07 Jul 2016 17:04:14 -0300</lastBuildDate>
     <generator>Jekyll v3.1.6</generator>
     
       <item>
@@ -60,7 +60,11 @@ eligendi reprehenderit, expedita ab dolor modi amet!&lt;/p&gt;
         <link>http://brunocesarweb.github.io//minimalist-jekyll-blog/the-incredible-gulp</link>
         <guid isPermaLink="true">http://brunocesarweb.github.io//minimalist-jekyll-blog/the-incredible-gulp</guid>
         
-        <category>gulp&amp;nbsp;javascript&amp;nbsp;front-end</category>
+        <category>gulp&amp;nbsp;</category>
+        
+        <category>javascript&amp;nbsp;</category>
+        
+        <category>front-end</category>
         
         
         <category>develop</category>
@@ -271,7 +275,9 @@ eligendi reprehenderit, expedita ab dolor modi amet!&lt;/p&gt;
         <link>http://brunocesarweb.github.io//minimalist-jekyll-blog/testing-a-pagination</link>
         <guid isPermaLink="true">http://brunocesarweb.github.io//minimalist-jekyll-blog/testing-a-pagination</guid>
         
-        <category>general&amp;nbsp;develop</category>
+        <category>general&amp;nbsp;</category>
+        
+        <category>develop</category>
         
         
         <category>tech</category>
