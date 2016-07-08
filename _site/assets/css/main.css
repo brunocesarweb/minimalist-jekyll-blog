@@ -300,12 +300,12 @@ h1.post-title {
     cursor: pointer; }
 
 .list-item {
-  border: 1px solid #333;
-  border-radius: 10px;
   padding: 10px;
-  box-shadow: 5px 5px 20px 0px #333;
-  -webkit-box-shadow: 5px 5px 20px 0px #333;
-  -moz-box-shadow: 5px 5px 20px 0px #333; }
+  border-radius: 10px;
+  border: 1px solid #333;
+  box-shadow: 10px 10px 20px -5px #333;
+  -webkit-box-shadow: 10px 10px 20px -5px #333;
+  -moz-box-shadow: 10px 10px 20px -5px #333; }
 
 .projects-list a {
   color: #333; }
@@ -441,6 +441,15 @@ footer {
 
 .underLink {
   text-decoration: underline; }
+
+ul#categoryList {
+  display: block;
+  list-style-type: none; }
+  ul#categoryList > li {
+    display: inline-block; }
+    ul#categoryList > li > a {
+      text-decoration: none;
+      cursor: pointer; }
 
 .highlight .hll {
   background-color: #ffffcc; }

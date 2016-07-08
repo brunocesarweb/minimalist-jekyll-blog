@@ -3,8 +3,8 @@
     <!--<div class="filters-list">-->
         
         <div class="byCategory">
-            <span>Category </span> 
-            <a href="/category/{{post.category}}"> - {{ post.category }} </a>
+            <span>Category </span>
+            <a href="{{ '/category/' | prepend: site.baseurl }}"> - {{ post.category }} </a>
         </div>
         
     <!--</div>-->
