@@ -3,10 +3,9 @@
     <div class="byTags">
 
         <span>Tags</span> - 
-
         {% for tag in post.tags %}    
 
-            <a href="/tag/{{tag}}">{{ tag }}</a>
+            <a href="{{ '/tags/' | prepend: site.baseurl }}">{{ tag }}</a>
 
         {% endfor %}
 

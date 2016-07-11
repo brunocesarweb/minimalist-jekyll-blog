@@ -2,7 +2,6 @@
 layout: post
 title:  "This is a 2 of july"
 date:   2016-07-02 11:11:50 +0300
-category: general
 tags: general
 ---
 

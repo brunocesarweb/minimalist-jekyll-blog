@@ -2,8 +2,7 @@
 layout: post
 title:  "Testing a pagination"
 date:   2016-06-02 11:11:50 +0300
-category: tech
-tags: general&nbsp; develop
+tags: general develop
 ---
 
 ## Testing a pagination

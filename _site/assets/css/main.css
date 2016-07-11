@@ -299,6 +299,18 @@ h1.post-title {
     text-decoration: none;
     cursor: pointer; }
 
+a.linkTag {
+  border: 2px solid #ddd;
+  padding: 0px 5px;
+  border-radius: 10px;
+  font-weight: bold;
+  display: inline-block;
+  margin-bottom: 5px; }
+
+a.linkTag:hover {
+  text-decoration: none;
+  cursor: pointer; }
+
 .list-item {
   padding: 10px;
   border-radius: 10px;
@@ -370,40 +382,6 @@ button:active {
   -webkit-box-shadow: inset 1px 1px 0px 0px #ffffff;
   -moz-box-shadow: inset 1px 1px 0px 0px #ffffff; }
 
-/*
-.css_btn_class {
-    font-size:16px;
-    font-family:Arial;
-    font-weight:normal;
-    -moz-border-radius:8px;
-    -webkit-border-radius:8px;
-    border-radius:8px;
-    border:1px solid #dcdcdc;
-    padding:9px 18px;
-    text-decoration:none;
-    background:-moz-linear-gradient( center top, #ffffff 5%, #f6f6f6 100% );
-    background:-ms-linear-gradient( top, #ffffff 5%, #f6f6f6 100% );
-    filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#ffffff', endColorstr='#f6f6f6');
-    background:-webkit-gradient( linear, left top, left bottom, color-stop(5%, #ffffff), color-stop(100%, #f6f6f6) );
-    background-color:#ffffff;
-    color:#666666;
-    display:inline-block;
-    text-shadow:1px 1px 0px #ffffff;
-    -webkit-box-shadow:inset 1px 1px 0px 0px #ffffff;
-    -moz-box-shadow:inset 1px 1px 0px 0px #ffffff;
-    box-shadow:inset 1px 1px 0px 0px #ffffff;
-}
-.css_btn_class:hover {
-    background:-moz-linear-gradient( center top, #f6f6f6 5%, #ffffff 100% );
-    background:-ms-linear-gradient( top, #f6f6f6 5%, #ffffff 100% );
-    filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#f6f6f6', endColorstr='#ffffff');
-    background:-webkit-gradient( linear, left top, left bottom, color-stop(5%, #f6f6f6), color-stop(100%, #ffffff) );
-    background-color:#f6f6f6;
-}
-.css_btn_class:active {
-    position:relative;
-    top:1px;
-}*/
 .pagination {
   border: 1px solid #aaa;
   border-left: 0px;
@@ -450,6 +428,25 @@ ul#categoryList {
     ul#categoryList > li > a {
       text-decoration: none;
       cursor: pointer; }
+
+.listTags {
+  border: 1px solid #aaa;
+  padding: 10px;
+  margin-bottom: 20px;
+  border-radius: 10px;
+  -webkit-border-radius: 10px;
+  -moz-border-radius: 10px; }
+
+span.tag-title {
+  display: block;
+  border-bottom: 1px solid #aaa;
+  margin-bottom: 10px;
+  padding-bottom: 5px; }
+
+ul.post-list > li {
+  list-style-type: disc;
+  list-style-position: inside;
+  padding-left: 15px; }
 
 .highlight .hll {
   background-color: #ffffcc; }

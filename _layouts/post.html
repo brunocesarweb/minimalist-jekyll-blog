@@ -12,11 +12,17 @@ layout: default
   </div> 
   
     <div class="filters">
-        {% if page.category != "" %}
-            <div class="byCategory"><span>Category: </span> {{ page.category }} </div>
-        {% endif %}
         {% if page.tags != "" %}
-            <div class="byTags"><span>Tags: </span> {{ page.tags }} </div>
+            <div class="byTags">
+                <span>Tags: </span> 
+                {% for tag in page.tags %}    
+
+                    <a href="{{ '/tags/' | prepend: site.baseurl }}">{{ tag }}</a>
+
+                {% endfor %}
+                
+            </div>
+        
         {% endif %}
     </div>
 

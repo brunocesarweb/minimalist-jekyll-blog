@@ -1,6 +1,6 @@
 ---
 layout: page
-title: The posts of blog
+title: Posts
 ---
 
 
@@ -16,15 +16,13 @@ title: The posts of blog
           <div class="list-item">
 
             <h2 class="list-post-title">
-              <a href="{{ post.url | prepend: site.baseurl }}"> {{ post.title }} </a>
+              <a class="linkTag" href="{{ post.url | prepend: site.baseurl }}"> {{ post.title }} </a>
             </h2>
             <div class="list-post-date">
               <time>{{ post.date | date_to_string }}</time>
             </div>
             
             <div class="filters">
-                
-                {% include filter-by-category.html %}
                 
                 {% include filter-by-tags.html %}
 

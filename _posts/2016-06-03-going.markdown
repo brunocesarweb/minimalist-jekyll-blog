@@ -2,7 +2,6 @@
 layout: post
 title:  "Going"
 date:   2016-06-03 11:11:50 +0300
-category: general
 tags: travel
 ---
 

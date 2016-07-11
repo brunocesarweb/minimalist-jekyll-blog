@@ -2,7 +2,6 @@
 layout: post
 title:  "The infinite day"
 date:   2016-06-30 11:11:50 +0300
-category: general
 tags: general
 ---
 

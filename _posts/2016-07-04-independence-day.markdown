@@ -2,7 +2,6 @@
 layout: post
 title:  "Independence day"
 date:   2016-07-04 17:20:10 +0300
-category: general
 tags: general
 ---
 

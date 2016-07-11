@@ -3,6 +3,8 @@
     <a href="{{ site.baseurl }}/">{{ site.title }}<span>&#39;s blog</span></a>
   </h1>
   <nav class="masthead-nav">
+    <a href="{{ site.baseurl }}/"> home </a>
+    <a href="{{ '/blog/' | prepend: site.baseurl }}"> blog </a>
     {% for page in site.pages %}
         {% if page.visibleLink %}
             <a href="{{ page.url | prepend: site.baseurl }}"> {{ page.title }} </a>

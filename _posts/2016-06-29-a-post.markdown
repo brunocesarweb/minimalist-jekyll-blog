@@ -2,7 +2,6 @@
 layout: post
 title:  "A post"
 date:   2016-06-29 11:11:50 +0300
-category: general
 tags: general
 ---
 

@@ -2,8 +2,7 @@
 layout: post
 title:  "Hello world!"
 date:   2016-06-01 15:58:00 +0300
-category: start
-tags: hello&nbsp; start
+tags: hello start
 ---
 
 # Heading 1

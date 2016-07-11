@@ -2,7 +2,6 @@
 layout: post
 title:  "Copy and paste"
 date:   2016-06-04 11:11:50 +0300
-category: tech
 tags: info
 ---
 

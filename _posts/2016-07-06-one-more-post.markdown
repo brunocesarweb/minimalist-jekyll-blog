@@ -2,7 +2,6 @@
 layout: post
 title:  "One more post"
 date:   2016-07-06 11:11:50 +0300
-category: general
 tags: general
 ---
 
