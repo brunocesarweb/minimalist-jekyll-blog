@@ -3,11 +3,11 @@
   <channel>
     <title>Minimalist</title>
     <description>Esse é um blog minimalista criado para aprender como funciona essa ferramenta linda que é o Jekyll.</description>
-    <link>http://brunocesarweb.github.io//minimalist-jekyll-blog/</link>
-    <atom:link href="http://brunocesarweb.github.io//minimalist-jekyll-blog/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 11 Jul 2016 16:39:10 -0300</pubDate>
-    <lastBuildDate>Mon, 11 Jul 2016 16:39:10 -0300</lastBuildDate>
-    <generator>Jekyll v3.1.6</generator>
+    <link>http://localhost:4000/minimalist-jekyll-blog/</link>
+    <atom:link href="http://localhost:4000/minimalist-jekyll-blog/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Mon, 19 Dec 2016 12:16:53 -0200</pubDate>
+    <lastBuildDate>Mon, 19 Dec 2016 12:16:53 -0200</lastBuildDate>
+    <generator>Jekyll v3.3.0</generator>
     
       <item>
         <title>One more post</title>
@@ -33,8 +33,8 @@ eligendi reprehenderit, expedita ab dolor modi amet!&lt;/p&gt;
 &lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Molestias debitis minus, est fuga dolorum totam animi quas eligendi impedit. Commodi accusantium odio non quibusdam hic quod quas magnam, enim consequatur!&lt;/p&gt;
 </description>
         <pubDate>Wed, 06 Jul 2016 05:11:50 -0300</pubDate>
-        <link>http://brunocesarweb.github.io//minimalist-jekyll-blog/one-more-post</link>
-        <guid isPermaLink="true">http://brunocesarweb.github.io//minimalist-jekyll-blog/one-more-post</guid>
+        <link>http://localhost:4000/minimalist-jekyll-blog/one-more-post</link>
+        <guid isPermaLink="true">http://localhost:4000/minimalist-jekyll-blog/one-more-post</guid>
         
         <category>general</category>
         
@@ -55,8 +55,8 @@ eligendi reprehenderit, expedita ab dolor modi amet!&lt;/p&gt;
 &lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Fuga nam consectetur, temporibus nobis eos explicabo et ipsam exercitationem deserunt cumque consequuntur iste illum, doloribus accusantium vitae ducimus? Pariatur, ducimus, illo!&lt;/p&gt;
 </description>
         <pubDate>Tue, 05 Jul 2016 17:11:50 -0300</pubDate>
-        <link>http://brunocesarweb.github.io//minimalist-jekyll-blog/the-incredible-gulp</link>
-        <guid isPermaLink="true">http://brunocesarweb.github.io//minimalist-jekyll-blog/the-incredible-gulp</guid>
+        <link>http://localhost:4000/minimalist-jekyll-blog/the-incredible-gulp</link>
+        <guid isPermaLink="true">http://localhost:4000/minimalist-jekyll-blog/the-incredible-gulp</guid>
         
         <category>gulp</category>
         
@@ -86,8 +86,8 @@ eligendi reprehenderit, expedita ab dolor modi amet!&lt;/p&gt;
 eligendi reprehenderit, expedita ab dolor modi amet!&lt;/p&gt;
 </description>
         <pubDate>Mon, 04 Jul 2016 11:20:10 -0300</pubDate>
-        <link>http://brunocesarweb.github.io//minimalist-jekyll-blog/independence-day</link>
-        <guid isPermaLink="true">http://brunocesarweb.github.io//minimalist-jekyll-blog/independence-day</guid>
+        <link>http://localhost:4000/minimalist-jekyll-blog/independence-day</link>
+        <guid isPermaLink="true">http://localhost:4000/minimalist-jekyll-blog/independence-day</guid>
         
         <category>general</category>
         
@@ -105,15 +105,15 @@ eligendi reprehenderit, expedita ab dolor modi amet!&lt;/p&gt;
 &lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
   &lt;span class=&quot;nb&quot;&gt;puts&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;Hi, &lt;/span&gt;&lt;span class=&quot;si&quot;&gt;#{&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;&lt;/span&gt;
 &lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
-&lt;span class=&quot;n&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;&#39;Tom&#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-&lt;span class=&quot;c1&quot;&gt;#=&amp;gt; prints &#39;Hi, Tom&#39; to STDOUT.&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+&lt;span class=&quot;n&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;'Tom'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+&lt;span class=&quot;c1&quot;&gt;#=&amp;gt; prints 'Hi, Tom' to STDOUT.&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
 
 &lt;p&gt;Check out the &lt;a href=&quot;http://jekyllrb.com/docs/home&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://talk.jekyllrb.com/&quot;&gt;Jekyll Talk&lt;/a&gt;.&lt;/p&gt;
 
 </description>
         <pubDate>Sun, 03 Jul 2016 10:04:05 -0300</pubDate>
-        <link>http://brunocesarweb.github.io//minimalist-jekyll-blog/welcome-to-jekyll</link>
-        <guid isPermaLink="true">http://brunocesarweb.github.io//minimalist-jekyll-blog/welcome-to-jekyll</guid>
+        <link>http://localhost:4000/minimalist-jekyll-blog/welcome-to-jekyll</link>
+        <guid isPermaLink="true">http://localhost:4000/minimalist-jekyll-blog/welcome-to-jekyll</guid>
         
         <category>jekyll</category>
         
@@ -134,8 +134,8 @@ eligendi reprehenderit, expedita ab dolor modi amet!&lt;/p&gt;
 &lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Fuga nam consectetur, temporibus nobis eos explicabo et ipsam exercitationem deserunt cumque consequuntur iste illum, doloribus accusantium vitae ducimus? Pariatur, ducimus, illo!&lt;/p&gt;
 </description>
         <pubDate>Sat, 02 Jul 2016 05:11:50 -0300</pubDate>
-        <link>http://brunocesarweb.github.io//minimalist-jekyll-blog/this-is-a-2-of-july</link>
-        <guid isPermaLink="true">http://brunocesarweb.github.io//minimalist-jekyll-blog/this-is-a-2-of-july</guid>
+        <link>http://localhost:4000/minimalist-jekyll-blog/this-is-a-2-of-july</link>
+        <guid isPermaLink="true">http://localhost:4000/minimalist-jekyll-blog/this-is-a-2-of-july</guid>
         
         <category>general</category>
         
@@ -158,8 +158,8 @@ eligendi reprehenderit, expedita ab dolor modi amet!&lt;/p&gt;
 &lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Molestias debitis minus, est fuga dolorum totam animi quas eligendi impedit. Commodi accusantium odio non quibusdam hic quod quas magnam, enim consequatur!&lt;/p&gt;
 </description>
         <pubDate>Thu, 30 Jun 2016 05:11:50 -0300</pubDate>
-        <link>http://brunocesarweb.github.io//minimalist-jekyll-blog/the-infinit-day</link>
-        <guid isPermaLink="true">http://brunocesarweb.github.io//minimalist-jekyll-blog/the-infinit-day</guid>
+        <link>http://localhost:4000/minimalist-jekyll-blog/the-infinit-day</link>
+        <guid isPermaLink="true">http://localhost:4000/minimalist-jekyll-blog/the-infinit-day</guid>
         
         <category>general</category>
         
@@ -182,8 +182,8 @@ eligendi reprehenderit, expedita ab dolor modi amet!&lt;/p&gt;
 &lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Molestias debitis minus, est fuga dolorum totam animi quas eligendi impedit. Commodi accusantium odio non quibusdam hic quod quas magnam, enim consequatur!&lt;/p&gt;
 </description>
         <pubDate>Wed, 29 Jun 2016 05:11:50 -0300</pubDate>
-        <link>http://brunocesarweb.github.io//minimalist-jekyll-blog/a-post</link>
-        <guid isPermaLink="true">http://brunocesarweb.github.io//minimalist-jekyll-blog/a-post</guid>
+        <link>http://localhost:4000/minimalist-jekyll-blog/a-post</link>
+        <guid isPermaLink="true">http://localhost:4000/minimalist-jekyll-blog/a-post</guid>
         
         <category>general</category>
         
@@ -206,8 +206,8 @@ eligendi reprehenderit, expedita ab dolor modi amet!&lt;/p&gt;
 &lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Molestias debitis minus, est fuga dolorum totam animi quas eligendi impedit. Commodi accusantium odio non quibusdam hic quod quas magnam, enim consequatur!&lt;/p&gt;
 </description>
         <pubDate>Sat, 04 Jun 2016 05:11:50 -0300</pubDate>
-        <link>http://brunocesarweb.github.io//minimalist-jekyll-blog/copy-and-paste</link>
-        <guid isPermaLink="true">http://brunocesarweb.github.io//minimalist-jekyll-blog/copy-and-paste</guid>
+        <link>http://localhost:4000/minimalist-jekyll-blog/copy-and-paste</link>
+        <guid isPermaLink="true">http://localhost:4000/minimalist-jekyll-blog/copy-and-paste</guid>
         
         <category>info</category>
         
@@ -230,8 +230,8 @@ eligendi reprehenderit, expedita ab dolor modi amet!&lt;/p&gt;
 &lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Molestias debitis minus, est fuga dolorum totam animi quas eligendi impedit. Commodi accusantium odio non quibusdam hic quod quas magnam, enim consequatur!&lt;/p&gt;
 </description>
         <pubDate>Fri, 03 Jun 2016 05:11:50 -0300</pubDate>
-        <link>http://brunocesarweb.github.io//minimalist-jekyll-blog/going</link>
-        <guid isPermaLink="true">http://brunocesarweb.github.io//minimalist-jekyll-blog/going</guid>
+        <link>http://localhost:4000/minimalist-jekyll-blog/going</link>
+        <guid isPermaLink="true">http://localhost:4000/minimalist-jekyll-blog/going</guid>
         
         <category>travel</category>
         
@@ -254,8 +254,8 @@ eligendi reprehenderit, expedita ab dolor modi amet!&lt;/p&gt;
 &lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Molestias debitis minus, est fuga dolorum totam animi quas eligendi impedit. Commodi accusantium odio non quibusdam hic quod quas magnam, enim consequatur!&lt;/p&gt;
 </description>
         <pubDate>Thu, 02 Jun 2016 05:11:50 -0300</pubDate>
-        <link>http://brunocesarweb.github.io//minimalist-jekyll-blog/testing-a-pagination</link>
-        <guid isPermaLink="true">http://brunocesarweb.github.io//minimalist-jekyll-blog/testing-a-pagination</guid>
+        <link>http://localhost:4000/minimalist-jekyll-blog/testing-a-pagination</link>
+        <guid isPermaLink="true">http://localhost:4000/minimalist-jekyll-blog/testing-a-pagination</guid>
         
         <category>general</category>
         
